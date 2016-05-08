@@ -1,6 +1,6 @@
 # seating-chart-algorithm
 
-Command to run algorithm (at least on Windows, but it's most likely similar in other environments. I'm not an expert):
+Command to run algorithm (at least on Windows):
 
 java -jar Algorithm.jar chartFile.json employeeFile.json similarityFile.json DesiredOutputFile.json
 
