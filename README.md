@@ -13,3 +13,7 @@ c32.json, c64.json, and c250.json are chart files for offices with 32, 64, and 2
 e32.json, e64.json, and e250.json are employee files with 32, 64, and 250 employees, respectively.
 
 s32.json, s64.json, and s250.json are similarity files with 32, 64, and 250 employees, respectively.
+
+DisplayChart.jar can be used to display JSON files that Algorithm.jar outputs:
+
+java -jar DisplayChart.jar OutputFile.json
